@@ -1,0 +1,52 @@
+{
+  "architectures": [
+    "ResNetForImageClassification"
+  ],
+  "depths": [
+    3,
+    4,
+    6,
+    3
+  ],
+  "downsample_in_bottleneck": false,
+  "downsample_in_first_stage": false,
+  "dtype": "float32",
+  "embedding_size": 64,
+  "hidden_act": "relu",
+  "hidden_sizes": [
+    256,
+    512,
+    1024,
+    2048
+  ],
+  "id2label": {
+    "0": "cordana",
+    "1": "healthy",
+    "2": "pestalotiopsis",
+    "3": "sigatoka"
+  },
+  "label2id": {
+    "cordana": 0,
+    "healthy": 1,
+    "pestalotiopsis": 2,
+    "sigatoka": 3
+  },
+  "layer_type": "bottleneck",
+  "model_type": "resnet",
+  "num_channels": 3,
+  "out_features": [
+    "stage4"
+  ],
+  "out_indices": [
+    4
+  ],
+  "problem_type": "single_label_classification",
+  "stage_names": [
+    "stem",
+    "stage1",
+    "stage2",
+    "stage3",
+    "stage4"
+  ],
+  "transformers_version": "5.16.1"
+}
