@@ -1,0 +1,95 @@
+Slides: 21
+
+===== SLIDE 1 =====
+OVERFLOW name='TextBox 6' text='SIDDAGANGA INSTITUTE OF TECHNOLOGY,' bound=(502.0x33.6) shape=(576.0x32.4) pos=(96.0,7.2)
+OVERFLOW name='TextBox 7' text='TUMKUR' bound=(105.3x33.6) shape=(192.0x32.4) pos=(288.0,37.4)
+TEXT OVERLAP: 'TextBox 6'['SIDDAGANGA INSTITUTE OF TECHNOLOGY,'] with 'TextBox 7'['TUMKUR'] area=(105.3x3.4)
+
+===== SLIDE 2 =====
+OVERFLOW name='TextBox 21' text='Introduction Problem statement Objectives Literature Survey Proposed W' bound=(167.5x176.1) shape=(164.9x153.4) pos=(69.8,103.0)
+OVERFLOW name='TextBox 22' text='Requirements\rDemonstration of Project\rResults and Output Visualization' bound=(259.3x212.1) shape=(367.9x183.6) pos=(69.8,290.9)
+TEXT OVERLAP: 'TextBox 21'['Introduction Problem statement Objective'] with 'TextBox 23'['System Architecture/ Block Diagram/ Flow'] area=(131.5x13.6)
+
+===== SLIDE 3 =====
+OVERFLOW name='TextBox 10' text='•' bound=(10.4x21.6) shape=(6.4x24.2) pos=(48.0,105.9)
+OVERFLOW name='TextBox 11' text='•' bound=(10.4x21.6) shape=(6.4x24.2) pos=(48.0,178.7)
+OVERFLOW name='TextBox 12' text='•' bound=(10.4x21.6) shape=(6.4x24.2) pos=(48.0,324.4)
+OVERFLOW name='TextBox 13' text='•' bound=(10.4x21.6) shape=(6.4x24.2) pos=(48.0,397.2)
+OVERFLOW name='TextBox 14' text='•' bound=(10.4x21.6) shape=(6.4x24.2) pos=(48.0,470.0)
+OVERFLOW name='TextBox 15' text='Advances in Deep Learning and Computer Vision enable automated, image-' bound=(673.0x46.2) shape=(669.6x50.4) pos=(69.8,327.6)
+
+===== SLIDE 4 =====
+OVERFLOW name='TextBox 10' text='Banana leaf diseases are difficult to detect manually because inspecti' bound=(666.2x122.6) shape=(662.4x144.0) pos=(52.6,111.6)
+
+===== SLIDE 5 =====
+OVERFLOW name='TextBox 10' text='1.To develop a deep-learning model that classifies banana leaf images ' bound=(682.2x43.2) shape=(691.2x21.6) pos=(40.3,110.2)
+OVERFLOW name='TextBox 12' text='2.To estimate disease severity by computing the percentage of leaf are' bound=(694.2x43.2) shape=(691.2x21.6) pos=(40.3,177.8)
+OVERFLOW name='TextBox 14' text='3.To incorporate Explainable AI (Grad-CAM) that visually highlights th' bound=(693.1x21.6) shape=(691.2x21.6) pos=(40.3,246.2)
+OVERFLOW name='TextBox 16' text='4.To design a recommendation engine that suggests verified crop-manage' bound=(690.3x43.2) shape=(691.2x21.6) pos=(40.3,314.6)
+TEXT OVERLAP: 'TextBox 10'['1.To develop a deep-learning model that '] with 'TextBox 11'['diseases.'] area=(72.3x10.1)
+TEXT OVERLAP: 'TextBox 12'['2.To estimate disease severity by comput'] with 'TextBox 13'['to Mild/Moderate/Severe categories.'] area=(271.8x9.4)
+TEXT OVERLAP: 'TextBox 16'['4.To design a recommendation engine that'] with 'TextBox 17'['disease type and severity.'] area=(193.7x10.1)
+
+===== SLIDE 6 =====
+OVERFLOW name='TextBox 13' text='Paper Title\r\rBanana Disease Identification Using Machine Learning Base' bound=(222.1x95.2) shape=(229.0x90.0) pos=(209.5,116.6)
+OVERFLOW name='TextBox 15' text='Alanazi' bound=(32.7x28.8) shape=(35.5x18.0) pos=(46.0,393.1)
+OVERFLOW name='TextBox 16' text='Narayanan et al.' bound=(67.4x28.8) shape=(74.5x18.0) pos=(46.0,229.4)
+OVERFLOW name='TextBox 17' text='Kothalawala et al.' bound=(75.4x28.8) shape=(82.8x18.0) pos=(46.0,163.7)
+OVERFLOW name='TextBox 18' text='Tanwar, Sharma & Aanand' bound=(81.9x28.8) shape=(87.2x18.0) pos=(46.0,283.2)
+OVERFLOW name='TextBox 19' text='Thirumeninathan et al.' bound=(98.6x28.8) shape=(103.7x18.0) pos=(46.0,340.8)
+OVERFLOW name='TextBox 25' text='Banana Plant Disease Classification Using Hybrid Convolutional Neural ' bound=(222.1x57.6) shape=(229.7x50.4) pos=(210.2,217.4)
+
+===== SLIDE 7 =====
+OVERFLOW name='TextBox 14' text=' Newer object-detection approaches improve localization of disease reg' bound=(654.3x43.2) shape=(691.2x24.5) pos=(43.9,235.4)
+TEXT OVERLAP: 'TextBox 14'[' Newer object-detection approaches impro'] with 'TextBox 15'['classification/detection, without quanti'] area=(463.2x10.8)
+
+===== SLIDE 8 =====
+OVERFLOW name='TextBox 11' text='ARCHITECTURE OF PROPOSED MODEL/ BLOCK DIAGRAM' bound=(570.9x72.0) shape=(662.4x57.6) pos=(52.8,39.6)
+
+===== SLIDE 9 =====
+OVERFLOW name='TextBox 11' text='ARCHITECTURE AND WORKING OF THE PROPOSED SYSTEM' bound=(639.6x72.0) shape=(721.9x15.1) pos=(24.2,45.9)
+TEXT OVERLAP: 'TextBox 6'['Proposed Work : Architecture'] with 'TextBox 11'['ARCHITECTURE AND WORKING OF THE PROPOSED'] area=(101.3x5.3)
+
+===== SLIDE 10 =====
+
+===== SLIDE 11 =====
+
+===== SLIDE 12 =====
+
+===== SLIDE 13 =====
+
+===== SLIDE 14 =====
+
+===== SLIDE 15 =====
+OVERFLOW name='TextBox 14' text='4.Severity tracking and disease-progression monitoring across large pl' bound=(666.0x21.6) shape=(662.4x28.8) pos=(52.6,270.0)
+
+===== SLIDE 16 =====
+
+===== SLIDE 17 =====
+OVERFLOW name='TextBox 12' text='• • •' bound=(10.4x93.7) shape=(14.4x86.4) pos=(56.2,133.2)
+OVERFLOW name='TextBox 13' text='• • •' bound=(10.4x93.7) shape=(14.4x86.4) pos=(56.2,270.0)
+OVERFLOW name='TextBox 15' text='HSV colour thresholds can be sensitive to lighting and background cond' bound=(593.3x72.9) shape=(590.4x93.6) pos=(77.8,133.2)
+
+===== SLIDE 18 =====
+
+===== SLIDE 19 =====
+OVERFLOW name='TextBox 10' text='[1] Kothalawala, M. U., Gaveshith K., M. G., Tharaka, A. H. D. H., Pun' bound=(638.6x38.4) shape=(673.2x21.6) pos=(40.3,107.3)
+OVERFLOW name='TextBox 12' text='[2] Tanwar, V., Sharma, B., & Aanand, V. (2023). Implementing a hybrid' bound=(651.0x38.4) shape=(673.2x21.6) pos=(40.3,201.6)
+OVERFLOW name='TextBox 14' text='[3] Thirumeninathan, V., Vijayalakshmi, S., & Palathara, S. T. (2024).' bound=(643.3x38.4) shape=(673.2x21.6) pos=(40.3,295.2)
+OVERFLOW name='TextBox 16' text='[4] Alanazi, R. (2025). A YOLOv10-based approach for banana leaf disea' bound=(639.1x38.4) shape=(673.2x21.6) pos=(40.3,389.5)
+TEXT OVERLAP: 'TextBox 10'['[1] Kothalawala, M. U., Gaveshith K., M.'] with 'TextBox 11'['Banana disease identification using mach'] area=(609.0x9.8)
+TEXT OVERLAP: 'TextBox 12'['[2] Tanwar, V., Sharma, B., & Aanand, V.'] with 'TextBox 13'['classification. In Proceedings of the IE'] area=(621.5x10.6)
+TEXT OVERLAP: 'TextBox 14'['[3] Thirumeninathan, V., Vijayalakshmi, '] with 'TextBox 15'['identification through CNN and SVM analy'] area=(613.8x9.8)
+TEXT OVERLAP: 'TextBox 16'['[4] Alanazi, R. (2025). A YOLOv10-based '] with 'TextBox 17'['Applied Science Research, vol. 15, no. 3'] area=(579.1x12.0)
+
+===== SLIDE 20 =====
+OVERFLOW name='TextBox 10' text='[5] Narayanan, K. L., Krishnan, R. S., Robinson, Y. H., Julie, E. G., ' bound=(664.3x86.9) shape=(664.6x72.0) pos=(40.3,108.7)
+OVERFLOW name='TextBox 11' text='[6]  He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learn' bound=(616.0x38.4) shape=(666.7x21.6) pos=(40.3,182.9)
+OVERFLOW name='TextBox 13' text='[7] Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D.,' bound=(633.0x38.4) shape=(656.6x21.6) pos=(40.3,258.5)
+OVERFLOW name='TextBox 14' text='explanations from deep networks via gradient-based localization. In Pr' bound=(604.3x64.8) shape=(633.6x50.4) pos=(59.8,278.6)
+TEXT OVERLAP: 'TextBox 10'['[5] Narayanan, K. L., Krishnan, R. S., R'] with 'TextBox 11'['[6]  He, K., Zhang, X., Ren, S., & Sun, '] area=(616.0x21.1)
+TEXT OVERLAP: 'TextBox 11'['[6]  He, K., Zhang, X., Ren, S., & Sun, '] with 'TextBox 12'['IEEE Conference on Computer Vision and P'] area=(596.6x9.8)
+TEXT OVERLAP: 'TextBox 13'['[7] Selvaraju, R. R., Cogswell, M., Das,'] with 'TextBox 14'['explanations from deep networks via grad'] area=(604.3x9.8)
+
+===== SLIDE 21 =====
+OVERFLOW name='TextBox 2' text='Thank you, everyone!' bound=(290.2x38.4) shape=(288.7x147.6) pos=(242.6,205.2)

@@ -1,0 +1,1201 @@
+Slide size: 9753600 7315200 10.67x8.00
+Slides: 21
+
+===== SLIDE 1 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(0.00,0.00) size=(10.67x1.85)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Group 3' type=GROUP (6) pos=(0.25,0.28) size=(1.39x1.42)
+      shape id=4 name='Freeform 4' type=FREEFORM (5) pos=(0.00,0.00) size=(1.85x1.89)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(1.00,6.09) size=(8.78x0.08)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='TextBox 6' type=TEXT_BOX (17) pos=(2.15,0.10) size=(8.08x0.49)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=462280 text='SIDDAGANGA INSTITUTE OF TECHNOLOGY,'
+        run text='SIDDAGANGA INSTITUTE OF TECHNOLOGY,' font='Open Sans Bold' size=26.0 bold=True italic=None color=000000
+  shape id=7 name='TextBox 7' type=TEXT_BOX (17) pos=(4.72,0.52) size=(1.68x0.49)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=462280 text='TUMKUR'
+        run text='TUMKUR' font='Open Sans Bold' size=26.0 bold=True italic=None color=000000
+  shape id=8 name='TextBox 8' type=TEXT_BOX (17) pos=(3.44,1.02) size=(0.08x0.43)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=417703 text=' '
+        run text=' ' font='Open Sans Bold' size=23.49 bold=True italic=None color=000000
+  shape id=9 name='TextBox 9' type=TEXT_BOX (17) pos=(1.82,1.10) size=(7.48x0.43)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=417703 text='Department of Information Science and Engineering'
+        run text='Department' font='Open Sans Bold' size=23.49 bold=True italic=None color=000000
+        run text=' ' font='Open Sans Bold' size=23.49 bold=True italic=None color=000000
+        run text='of' font='Open Sans Bold' size=23.49 bold=True italic=None color=000000
+        run text=' ' font='Open Sans Bold' size=23.49 bold=True italic=None color=000000
+        run text='Information' font='Open Sans Bold' size=23.49 bold=True italic=None color=000000
+        run text=' ' font='Open Sans Bold' size=23.49 bold=True italic=None color=000000
+        run text='Science' font='Open Sans Bold' size=23.49 bold=True italic=None color=000000
+        run text=' ' font='Open Sans Bold' size=23.49 bold=True italic=None color=000000
+        run text='and' font='Open Sans Bold' size=23.49 bold=True italic=None color=000000
+        run text=' ' font='Open Sans Bold' size=23.49 bold=True italic=None color=000000
+        run text='Engineering' font='Open Sans Bold' size=23.49 bold=True italic=None color=000000
+  shape id=10 name='TextBox 10' type=TEXT_BOX (17) pos=(1.31,2.00) size=(7.70x1.72)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=376809 text='Mini Project Second Review Presentation'
+        run text='Mini Project Second Review Presentation' font='Liberation Sans' size=22.5 bold=None italic=None color=000000
+     p1 lvl=0 align=CENTER (2) space_before=29337 space_after=None line=376809 text='on'
+        run text='on' font='Liberation Sans' size=22.5 bold=None italic=None color=000000
+     p2 lvl=0 align=CENTER (2) space_before=None space_after=None line=401955 text=' Banana Leaf Disease Diagnosis and Severity Estimation '
+        run text=' Banana Leaf Disease Diagnosis and Severity Estimation ' font='Open Sans Bold' size=24.0 bold=True italic=None color=0070C0
+  shape id=11 name='TextBox 11' type=TEXT_BOX (17) pos=(1.00,4.56) size=(2.60x1.37)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=253873 text='By'
+        run text='By' font='Open Sans Bold' size=14.49 bold=True italic=None color=000000
+     p1 lvl=0 align=LEFT (1) space_before=None space_after=None line=253873 text='Rakesh Y G: 1SI24IS076 Pavan B S: 1SI24IS068 Shishir S Gowda: 1SI24IS094 Vathsalya P: 1SI24IS119'
+        run text='Rakesh Y G: 1SI24IS076 Pavan B S: 1SI24IS068 Shishir S Gowda: 1SI24IS094 Vathsalya P: 1SI24IS119' font='Open Sans Bold' size=14.49 bold=True italic=None color=000000
+  shape id=12 name='TextBox 12' type=TEXT_BOX (17) pos=(7.15,6.21) size=(2.58x1.06)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=319151 text='UNDER THE GUIDANCE OF'
+        run text='UNDER THE GUIDANCE OF' font='Liberation Sans Bold' size=13.5 bold=True italic=None color=000000
+     p1 lvl=0 align=LEFT (1) space_before=None space_after=None line=342773 text='Dr. Jayanna H S'
+        run text='Dr. Jayanna H S' font='Liberation Sans' size=14.49 bold=None italic=None color=000000
+     p2 lvl=0 align=LEFT (1) space_before=None space_after=None line=342773 text='Professor, Dept. of ISE '
+        run text='Professor, Dept. of ISE ' font='Liberation Sans' size=14.49 bold=None italic=None color=000000
+
+===== SLIDE 2 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(-0.29,0.00) size=(11.29x0.37)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-0.42,7.56) size=(11.57x0.48)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='Freeform 6' type=FREEFORM (5) pos=(0.67,1.61) size=(0.11x0.11)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=7 name='Freeform 7' type=FREEFORM (5) pos=(0.67,2.04) size=(0.11x0.11)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=8 name='Freeform 8' type=FREEFORM (5) pos=(0.67,2.48) size=(0.11x0.11)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=9 name='Freeform 9' type=FREEFORM (5) pos=(0.67,2.91) size=(0.11x0.11)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=10 name='Freeform 10' type=FREEFORM (5) pos=(0.67,3.34) size=(0.11x0.11)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=11 name='Freeform 11' type=FREEFORM (5) pos=(0.67,4.22) size=(0.11x0.11)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=12 name='Freeform 12' type=FREEFORM (5) pos=(0.67,4.65) size=(0.11x0.11)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=13 name='Freeform 13' type=FREEFORM (5) pos=(0.67,5.08) size=(0.11x0.11)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=14 name='Freeform 14' type=FREEFORM (5) pos=(0.67,5.51) size=(0.11x0.11)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=15 name='Freeform 15' type=FREEFORM (5) pos=(0.67,5.94) size=(0.11x0.11)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=16 name='Freeform 16' type=FREEFORM (5) pos=(1.20,3.77) size=(0.10x0.10)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=17 name='TextBox 17' type=TEXT_BOX (17) pos=(0.06,0.06) size=(0.64x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='Outline'
+        run text='Outline' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=18 name='TextBox 18' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=19 name='TextBox 19' type=TEXT_BOX (17) pos=(10.30,7.63) size=(0.12x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='2'
+        run text='2' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+  shape id=20 name='TextBox 20' type=TEXT_BOX (17) pos=(4.37,0.59) size=(1.96x0.55)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=533400 text='OUTLINE'
+        run text='OUTLINE' font='Open Sans Bold' size=30.0 bold=True italic=None color=000000
+  shape id=21 name='TextBox 21' type=TEXT_BOX (17) pos=(0.97,1.43) size=(2.29x2.13)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=393700 text='Introduction Problem statement Objectives Literature Survey Proposed Work'
+        run text='Introduction Problem statement Objectives Literature Survey Proposed Work' font='Open Sans Bold' size=20.0 bold=True italic=None color=000000
+  shape id=22 name='TextBox 22' type=TEXT_BOX (17) pos=(0.97,4.04) size=(5.11x2.55)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=393700 text='Requirements'
+        run text='Requirements' font='Open Sans Bold' size=20.0 bold=True italic=None color=000000
+     p1 lvl=0 align=LEFT (1) space_before=None space_after=None line=393700 text='Demonstration of Project'
+        run text='Demonstration of Project' font='Open Sans Bold' size=20.0 bold=True italic=None color=000000
+     p2 lvl=0 align=LEFT (1) space_before=None space_after=None line=393700 text='Results and Output Visualization'
+        run text='Results and Output Visualization' font='Open Sans Bold' size=20.0 bold=True italic=None color=000000
+     p3 lvl=0 align=LEFT (1) space_before=None space_after=None line=393700 text='Work Application'
+        run text='Work Application' font='Open Sans Bold' size=20.0 bold=True italic=None color=000000
+     p4 lvl=0 align=LEFT (1) space_before=None space_after=None line=393700 text='Conclusion'
+        run text='Conclusion' font='Open Sans Bold' size=20.0 bold=True italic=None color=000000
+     p5 lvl=0 align=LEFT (1) space_before=None space_after=None line=393700 text='References'
+        run text='References' font='Open Sans Bold' size=20.0 bold=True italic=None color=000000
+  shape id=23 name='TextBox 23' type=TEXT_BOX (17) pos=(1.47,3.65) size=(5.08x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=320040 text='System Architecture/ Block Diagram/ Flow Chart'
+        run text='System Architecture/ Block Diagram/ Flow Chart' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=24 name='Freeform 24' type=FREEFORM (5) pos=(0.67,6.37) size=(0.11x0.11)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+
+===== SLIDE 3 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(-0.29,0.00) size=(11.19x0.36)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-0.49,7.56) size=(11.66x0.49)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='TextBox 6' type=TEXT_BOX (17) pos=(0.06,0.06) size=(1.08x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='Introduction'
+        run text='Introduction' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=7 name='TextBox 7' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=8 name='TextBox 8' type=TEXT_BOX (17) pos=(10.30,7.63) size=(0.12x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='3'
+        run text='3' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+  shape id=9 name='TextBox 9' type=TEXT_BOX (17) pos=(3.67,0.59) size=(3.40x0.55)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=533400 text='INTRODUCTION'
+        run text='INTRODUCTION' font='Open Sans Bold' size=30.0 bold=True italic=None color=000000
+  shape id=10 name='TextBox 10' type=TEXT_BOX (17) pos=(0.67,1.47) size=(0.09x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=320040 text='•'
+        run text='•' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=11 name='TextBox 11' type=TEXT_BOX (17) pos=(0.67,2.48) size=(0.09x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=320040 text='•'
+        run text='•' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=12 name='TextBox 12' type=TEXT_BOX (17) pos=(0.67,4.50) size=(0.09x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=320040 text='•'
+        run text='•' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=13 name='TextBox 13' type=TEXT_BOX (17) pos=(0.67,5.52) size=(0.09x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=320040 text='•'
+        run text='•' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=14 name='TextBox 14' type=TEXT_BOX (17) pos=(0.67,6.53) size=(0.09x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=320040 text='•'
+        run text='•' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=15 name='TextBox 15' type=TEXT_BOX (17) pos=(0.97,4.55) size=(8.38x0.60)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=278892 text='Advances in Deep Learning and Computer Vision enable automated, image-based detection of plant diseases with high accuracy.'
+        run text='Advances in Deep Learning and Computer Vision enable automated, image-based detection of plant diseases with high accuracy.' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=16 name='TextBox 16' type=TEXT_BOX (17) pos=(0.97,2.52) size=(8.75x0.60)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=278892 text='Leaf diseases such as Sigatoka , Cordana , Pestalotiopsis significantly reduce yield, fruit quality, and farm income.'
+        run text='Leaf diseases such as Sigatoka , Cordana , Pestalotiopsis significantly reduce yield, fruit quality, and farm income.' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=17 name='TextBox 17' type=TEXT_BOX (17) pos=(0.67,3.49) size=(9.19x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=320040 text='•    Manual inspection by farmers is slow, subjective, and often inaccurate, especially in the'
+        run text='•    Manual inspection by farmers is slow, subjective, and often inaccurate, especially in the' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=18 name='TextBox 18' type=TEXT_BOX (17) pos=(0.97,3.80) size=(2.51x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=320040 text='early stages of infection.'
+        run text='early stages of infection.' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=19 name='TextBox 19' type=TEXT_BOX (17) pos=(0.97,1.51) size=(9.01x0.60)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=278892 text="Bananas are among the world's most cultivated fruit crops and a major source of income for farmers, including in Karnataka."
+        run text="Bananas are among the world's most cultivated fruit crops and a major source of income for farmers, including in Karnataka." font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=20 name='TextBox 20' type=TEXT_BOX (17) pos=(0.97,5.56) size=(8.98x0.60)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=278892 text='This project proposes system that detects the disease, estimates its severity, and visually explains its prediction using Grad-CAM.'
+        run text='This project proposes system that detects the disease, estimates its severity, and visually explains its prediction using Grad-CAM.' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=21 name='TextBox 21' type=TEXT_BOX (17) pos=(0.97,6.57) size=(9.21x0.60)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=278892 text='The system is designed to provide farmers with an easy-to-use tool for early diagnosis and actionable crop-management recommendations.'
+        run text='The system is designed to provide farmers with an easy-to-use tool for early diagnosis and actionable crop-management recommendations.' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+
+===== SLIDE 4 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(-0.82,0.00) size=(11.80x0.38)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-0.53,7.56) size=(11.73x0.49)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='TextBox 6' type=TEXT_BOX (17) pos=(0.06,0.06) size=(1.64x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='Problem Statement'
+        run text='Problem Statement' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=7 name='TextBox 7' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=8 name='TextBox 8' type=TEXT_BOX (17) pos=(10.30,7.63) size=(0.12x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='4'
+        run text='4' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+  shape id=9 name='TextBox 9' type=TEXT_BOX (17) pos=(2.92,0.59) size=(4.92x0.55)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=533400 text='PROBLEM STATEMENT'
+        run text='PROBLEM STATEMENT' font='Open Sans Bold' size=30.0 bold=True italic=None color=000000
+  shape id=10 name='TextBox 10' type=TEXT_BOX (17) pos=(0.47,1.61) size=(9.69x1.71)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=317500 text='Banana leaf diseases are difficult to detect manually because inspection is time-consuming and requires expert knowledge. Farmers may not have quick access to experts, which can lead to delayed or incorrect treatment. Therefore, there is a need for an accessible and explainable  system that can detect banana leaf diseases at an early stage, estimate their severity, visually explain the prediction, and recommend suitable action.'
+        run text='Banana leaf diseases are difficult to detect manually because inspection is time-consuming and requires expert knowledge. Farmers may not have quick access to experts, which can lead to delayed or incorrect treatment. Therefore, there is a need for an accessible and explainable  system that can detect banana leaf diseases at an early stage, estimate their severity, visually explain the prediction, and recommend suitable action.' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+
+===== SLIDE 5 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(-0.51,0.00) size=(11.90x0.39)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-0.55,7.56) size=(11.85x0.49)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='TextBox 6' type=TEXT_BOX (17) pos=(0.06,0.06) size=(0.89x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='Objectives'
+        run text='Objectives' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=7 name='TextBox 7' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=8 name='TextBox 8' type=TEXT_BOX (17) pos=(10.30,7.63) size=(0.12x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='5'
+        run text='5' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+  shape id=9 name='TextBox 9' type=TEXT_BOX (17) pos=(4.01,0.59) size=(2.69x0.55)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=533400 text='OBJECTIVES'
+        run text='OBJECTIVES' font='Open Sans Bold' size=30.0 bold=True italic=None color=000000
+  shape id=10 name='TextBox 10' type=TEXT_BOX (17) pos=(0.56,1.53) size=(9.60x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=311023 text='1.To develop a deep-learning model that classifies banana leaf images as healthy or affected by'
+        run text='1.To develop a deep-learning model that classifies banana leaf images as healthy or affected by' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=11 name='TextBox 11' type=TEXT_BOX (17) pos=(0.86,1.82) size=(0.87x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=311023 text='diseases.'
+        run text='diseases.' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=12 name='TextBox 12' type=TEXT_BOX (17) pos=(0.56,2.47) size=(9.64x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=311023 text='2.To estimate disease severity by computing the percentage of leaf area affected and mapping it'
+        run text='2.To estimate disease severity by computing the percentage of leaf area affected and mapping it' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=13 name='TextBox 13' type=TEXT_BOX (17) pos=(0.86,2.77) size=(3.63x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=311023 text='to Mild/Moderate/Severe categories.'
+        run text='to Mild/Moderate/Severe categories.' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=14 name='TextBox 14' type=TEXT_BOX (17) pos=(0.56,3.42) size=(9.78x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=311023 text='3.To incorporate Explainable AI (Grad-CAM) that visually highlights the regions influencing the'
+        run text='3.To incorporate Explainable AI (Grad-CAM) that visually highlights the regions influencing the' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=15 name='TextBox 15' type=TEXT_BOX (17) pos=(0.86,3.72) size=(1.89x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=311023 text="model's prediction."
+        run text="model's prediction." font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=16 name='TextBox 16' type=TEXT_BOX (17) pos=(0.56,4.37) size=(9.66x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=311023 text='4.To design a recommendation engine that suggests verified crop-management actions based on'
+        run text='4.To design a recommendation engine that suggests verified crop-management actions based on' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=17 name='TextBox 17' type=TEXT_BOX (17) pos=(0.86,4.66) size=(2.53x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=311023 text='disease type and severity.'
+        run text='disease type and severity.' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=18 name='TextBox 18' type=TEXT_BOX (17) pos=(0.56,5.31) size=(8.16x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=311023 text='5.To build a Streamlit-based web interface with a dashboard for scan history and'
+        run text='5.To build a Streamlit-based web interface with a dashboard for scan history and' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=19 name='TextBox 19' type=TEXT_BOX (17) pos=(0.86,5.61) size=(2.89x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=311023 text='disease-progression tracking.'
+        run text='disease-progression tracking.' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=20 name='TextBox 20' type=TEXT_BOX (17) pos=(0.56,6.26) size=(9.28x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=311023 text='6.To validate every uploaded image (banana leaf / not a banana leaf) before analysis, so that'
+        run text='6.To validate every uploaded image (banana leaf / not a banana leaf) before analysis, so that' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=21 name='TextBox 21' type=TEXT_BOX (17) pos=(0.86,6.56) size=(3.06x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=311023 text='unsuitable images are rejected.'
+        run text='unsuitable images are rejected.' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+
+===== SLIDE 6 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(0.00,0.00) size=(10.89x0.35)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-0.45,7.56) size=(11.34x0.47)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='Freeform 6' type=FREEFORM (5) pos=(0.48,1.43) size=(9.82x4.61)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=7 name='TextBox 7' type=TEXT_BOX (17) pos=(0.06,0.06) size=(1.53x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='Literature Survey'
+        run text='Literature Survey' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=8 name='TextBox 8' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=9 name='TextBox 9' type=TEXT_BOX (17) pos=(10.30,7.63) size=(0.12x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='6'
+        run text='6' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+  shape id=10 name='TextBox 10' type=TEXT_BOX (17) pos=(1.58,0.37) size=(7.12x0.86)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=825373 text='LITERATURE SURVEY'
+        run text='LITERATURE SURVEY' font='Open Sans Bold' size=46.42 bold=True italic=None color=000000
+  shape id=11 name='TextBox 11' type=TEXT_BOX (17) pos=(0.64,1.59) size=(0.75x0.28)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=270256 text='Authors'
+        run text='Authors' font='Open Sans Bold' size=15.2 bold=True italic=None color=FFFFFF
+  shape id=12 name='TextBox 12' type=TEXT_BOX (17) pos=(2.28,1.59) size=(0.45x0.28)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=270256 text='Year'
+        run text='Year' font='Open Sans Bold' size=15.2 bold=True italic=None color=FFFFFF
+  shape id=13 name='TextBox 13' type=TEXT_BOX (17) pos=(2.91,1.62) size=(3.18x1.21)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=231648 text='Paper Title'
+        run text='Paper Title' font='Open Sans Bold' size=15.2 bold=True italic=None color=FFFFFF
+     p1 lvl=0 align=LEFT (1) space_before=None space_after=None line=231648 text=''
+     p2 lvl=0 align=LEFT (1) space_before=None space_after=None line=170561 text='Banana Disease Identification Using Machine Learning Based Technologies and Weather-Based Dispersion Analysis (IEEE ICAC, Colombo, Sri Lanka)'
+        run text='Banana Disease Identification Using Machine Learning Based Technologies and Weather-Based Dispersion Analysis (IEEE ICAC, Colombo, Sri Lanka)' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+  shape id=14 name='TextBox 14' type=TEXT_BOX (17) pos=(6.41,1.62) size=(3.71x4.18)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=231648 text='Remarks'
+        run text='Remarks' font='Open Sans Bold' size=15.2 bold=True italic=None color=FFFFFF
+     p1 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=231648 text=''
+     p2 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=170561 text="Used ML combined with weather-based dispersion analysis to predict disease spread early — good for prevention, but doesn't classify severity or give explainability."
+        run text="Used ML combined with weather-based dispersion analysis to predict disease spread early — good for prevention, but doesn't classify severity or give explainability." font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+     p3 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=170561 text=''
+     p4 lvl=0 align=JUSTIFY (4) space_before=152273 space_after=None line=170561 text='Built a hybrid CNN model for banana disease classification with high accuracy — strong on detection, but a "black box" (no explainability), and no severity grading.'
+        run text='Built a hybrid CNN model for banana disease classification with high accuracy — strong on detection, but a "black box" (no explainability), and no severity grading.' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+     p5 lvl=0 align=JUSTIFY (4) space_before=152273 space_after=None line=170561 text='Combined CNN (feature extraction) + SVM (classification) to improve accuracy over plain CNN — shows hybrid models outperform others.'
+        run text='Combined CNN (feature extraction) + SVM (classification) to improve accuracy over plain CNN — shows hybrid models outperform others.' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+     p6 lvl=0 align=JUSTIFY (4) space_before=152273 space_after=None line=170561 text='Also used CNN-SVM specifically for banana disease identification, reinforcing this as a mature, reliable approach for the classification step.'
+        run text='Also used CNN-SVM specifically for banana disease identification, reinforcing this as a mature, reliable approach for the classification step.' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+     p7 lvl=0 align=JUSTIFY (4) space_before=152273 space_after=None line=170561 text='Used YOLOv10 for detection and localization — meaning it can point out where on the leaf the disease is, not just classify it.'
+        run text='Used YOLOv10 for detection and localization — meaning it can point out where on the leaf the disease is, not just classify it.' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+  shape id=15 name='TextBox 15' type=TEXT_BOX (17) pos=(0.64,5.46) size=(0.49x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=199009 text='Alanazi'
+        run text='Alanazi' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+  shape id=16 name='TextBox 16' type=TEXT_BOX (17) pos=(0.64,3.19) size=(1.04x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=199009 text='Narayanan et al.'
+        run text='Narayanan et al.' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+  shape id=17 name='TextBox 17' type=TEXT_BOX (17) pos=(0.64,2.27) size=(1.15x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=199009 text='Kothalawala et al.'
+        run text='Kothalawala et al.' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+  shape id=18 name='TextBox 18' type=TEXT_BOX (17) pos=(0.64,3.93) size=(1.21x0.37)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=170561 text='Tanwar, Sharma & Aanand'
+        run text='Tanwar, Sharma & Aanand' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+  shape id=19 name='TextBox 19' type=TEXT_BOX (17) pos=(0.64,4.73) size=(1.44x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=199009 text='Thirumeninathan et al.'
+        run text='Thirumeninathan et al.' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+  shape id=20 name='TextBox 20' type=TEXT_BOX (17) pos=(2.28,2.27) size=(0.32x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=199009 text='2022'
+        run text='2022' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+  shape id=21 name='TextBox 21' type=TEXT_BOX (17) pos=(2.28,3.19) size=(0.32x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=199009 text='2022'
+        run text='2022' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+  shape id=22 name='TextBox 22' type=TEXT_BOX (17) pos=(2.28,4.01) size=(0.32x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=199009 text='2023'
+        run text='2023' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+  shape id=23 name='TextBox 23' type=TEXT_BOX (17) pos=(2.28,4.73) size=(0.32x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=199009 text='2024'
+        run text='2024' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+  shape id=24 name='TextBox 24' type=TEXT_BOX (17) pos=(2.28,5.46) size=(0.32x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=199009 text='2025'
+        run text='2025' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+  shape id=25 name='TextBox 25' type=TEXT_BOX (17) pos=(2.92,3.02) size=(3.19x0.56)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=170561 text='Banana Plant Disease Classification Using Hybrid Convolutional Neural Network (Computational Intelligence & Neuroscience, Hindawi)'
+        run text='Banana Plant Disease Classification Using Hybrid Convolutional Neural Network (Computational Intelligence & Neuroscience, Hindawi)' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+  shape id=26 name='TextBox 26' type=TEXT_BOX (17) pos=(2.95,3.88) size=(3.23x2.01)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=170561 text='Implementing a Hybrid CNN-SVM Model for Banana Leaf Disease Classification (IEEE RMKMATE, Chennai, India)'
+        run text='Implementing a Hybrid CNN-SVM Model for Banana Leaf Disease Classification (IEEE RMKMATE, Chennai, India)' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+     p1 lvl=0 align=LEFT (1) space_before=152273 space_after=None line=170561 text='Enhancing Banana Cultivation: Disease Identification through CNN and SVM Analysis for Optimal Plant Health (IEEE TQCEBT)'
+        run text='Enhancing Banana Cultivation: Disease Identification through CNN and SVM Analysis for Optimal Plant Health (IEEE TQCEBT)' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+     p2 lvl=0 align=LEFT (1) space_before=152273 space_after=None line=170561 text='A YOLOv10-based Approach for Banana Leaf Disease Detection (Engineering, Technology & Applied Science Research)'
+        run text='A YOLOv10-based Approach for Banana Leaf Disease Detection (Engineering, Technology & Applied Science Research)' font='IBM Plex Sans Condensed' size=11.19 bold=None italic=None color=000000
+
+===== SLIDE 7 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(-0.79,0.00) size=(11.90x0.39)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-0.50,7.56) size=(11.66x0.49)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='TextBox 6' type=TEXT_BOX (17) pos=(0.06,0.06) size=(1.53x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='Literature Survey'
+        run text='Literature Survey' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=7 name='TextBox 7' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=8 name='TextBox 8' type=TEXT_BOX (17) pos=(10.30,7.63) size=(0.12x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='7'
+        run text='7' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+  shape id=9 name='TextBox 9' type=TEXT_BOX (17) pos=(1.63,0.63) size=(7.55x0.49)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=462280 text='OUTCOME OF THE LITERATURE SURVEY'
+        run text='OUTCOME OF THE LITERATURE SURVEY' font='Open Sans Bold' size=26.0 bold=True italic=None color=000000
+  shape id=10 name='TextBox 10' type=TEXT_BOX (17) pos=(0.61,1.47) size=(9.20x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=1 align=LEFT (1) space_before=None space_after=None line=311023 text=' Existing work spans classical ML, hybrid CNN-SVM models, and pure CNN pipelines, with'
+        run text=' ' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+        run text='Existing work spans classical ML, hybrid CNN-SVM models, and pure CNN pipelines, with' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=11 name='TextBox 11' type=TEXT_BOX (17) pos=(1.09,1.77) size=(8.60x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=311023 text='reported accuracies from  90% to  99% depending on dataset size and disease classes.'
+        run text='reported accuracies from  90% to  99% depending on dataset size and disease classes.' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=12 name='TextBox 12' type=TEXT_BOX (17) pos=(0.61,2.37) size=(8.85x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=1 align=LEFT (1) space_before=None space_after=None line=311023 text=' Hybrid CNN approaches consistently improve on standalone classical ML, but neither'
+        run text=' ' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+        run text='Hybrid CNN approaches consistently improve on standalone classical ML, but neither' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=13 name='TextBox 13' type=TEXT_BOX (17) pos=(1.09,2.68) size=(5.03x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=311023 text='severity estimation nor explainability is addressed.'
+        run text='severity estimation nor explainability is addressed.' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=14 name='TextBox 14' type=TEXT_BOX (17) pos=(0.61,3.27) size=(9.44x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=1 align=LEFT (1) space_before=None space_after=None line=311023 text=' Newer object-detection approaches improve localization of disease regions but still stop at'
+        run text=' ' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+        run text='Newer object-detection approaches improve localization of disease regions but still stop at' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=15 name='TextBox 15' type=TEXT_BOX (17) pos=(1.09,3.57) size=(6.20x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=311023 text='classification/detection, without quantifying affected leaf area.'
+        run text='classification/detection, without quantifying affected leaf area.' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=16 name='TextBox 16' type=TEXT_BOX (17) pos=(0.61,4.17) size=(9.28x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=1 align=LEFT (1) space_before=None space_after=None line=311023 text=' Very few studies estimate disease severity; most systems output only a disease label and'
+        run text=' ' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+        run text='Very few studies estimate disease severity; most systems output only a disease label and' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=17 name='TextBox 17' type=TEXT_BOX (17) pos=(1.08,4.46) size=(1.73x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=311023 text='confidence score.'
+        run text='confidence score.' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=18 name='TextBox 18' type=TEXT_BOX (17) pos=(0.61,5.07) size=(9.11x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=1 align=LEFT (1) space_before=None space_after=None line=311023 text=' Explainability (e.g., Grad-CAM) is rarely integrated into existing systems, limiting farmer'
+        run text=' ' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+        run text='Explainability (e.g., Grad-CAM) is rarely integrated into existing systems, limiting farmer' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=19 name='TextBox 19' type=TEXT_BOX (17) pos=(1.08,5.35) size=(0.50x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=311023 text='trust.'
+        run text='trust.' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=20 name='TextBox 20' type=TEXT_BOX (17) pos=(0.61,5.97) size=(8.90x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=1 align=LEFT (1) space_before=None space_after=None line=311023 text=' This motivates an integrated system combining classification, severity estimation and'
+        run text=' ' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+        run text='This motivates an integrated system combining classification, severity estimation and' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+  shape id=21 name='TextBox 21' type=TEXT_BOX (17) pos=(1.09,6.25) size=(4.96x0.33)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=311023 text='explainable AI in one farmer-friendly application.'
+        run text='explainable AI in one farmer-friendly application.' font='IBM Plex Sans Condensed' size=17.49 bold=None italic=None color=000000
+
+===== SLIDE 8 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(-0.53,0.00) size=(11.54x0.38)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-0.62,7.56) size=(11.93x0.50)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='Freeform 6' type=FREEFORM (5) pos=(0.48,1.98) size=(9.71x3.13)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=7 name='TextBox 7' type=TEXT_BOX (17) pos=(0.06,0.06) size=(2.58x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='Proposed Work : Architecture'
+        run text='Proposed Work : Architecture' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=8 name='TextBox 8' type=TEXT_BOX (17) pos=(3.44,3.18) size=(1.80x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Not a banana leaf: rejected'
+        run text='Not a banana leaf: rejected' font='Open Sans Bold' size=11.0 bold=True italic=None color=C00000
+  shape id=9 name='TextBox 9' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=10 name='TextBox 10' type=TEXT_BOX (17) pos=(10.30,7.63) size=(0.12x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='8'
+        run text='8' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+  shape id=11 name='TextBox 11' type=TEXT_BOX (17) pos=(2.21,0.65) size=(6.37x0.98)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=456946 text='ARCHITECTURE OF PROPOSED MODEL/ BLOCK DIAGRAM'
+        run text='ARCHITECTURE OF PROPOSED MODEL/ BLOCK DIAGRAM' font='Open Sans Bold' size=29.0 bold=True italic=None color=000000
+  shape id=12 name='TextBox 12' type=TEXT_BOX (17) pos=(1.14,2.28) size=(0.47x0.64)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=193675 text='Leaf Image Input'
+        run text='Leaf Image Input' font='Open Sans Bold' size=12.5 bold=True italic=None color=FFFFFF
+  shape id=13 name='TextBox 13' type=TEXT_BOX (17) pos=(0.97,4.35) size=(0.83x0.43)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=193675 text='Severity Estimation'
+        run text='Severity Estimation' font='Open Sans Bold' size=12.5 bold=True italic=None color=FFFFFF
+  shape id=14 name='TextBox 14' type=TEXT_BOX (17) pos=(3.07,2.28) size=(0.57x0.64)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=193675 text='Image Quality Check'
+        run text='Image Quality Check' font='Open Sans Bold' size=12.5 bold=True italic=None color=FFFFFF
+  shape id=15 name='TextBox 15' type=TEXT_BOX (17) pos=(2.90,4.35) size=(0.93x0.43)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=193675 text='Grad-CAM Explanation'
+        run text='Grad-CAM Explanation' font='Open Sans Bold' size=12.5 bold=True italic=None color=FFFFFF
+  shape id=16 name='TextBox 16' type=TEXT_BOX (17) pos=(4.81,2.38) size=(1.06x0.43)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=193675 text='Image Preprocessing'
+        run text='Image Preprocessing' font='Open Sans Bold' size=12.5 bold=True italic=None color=FFFFFF
+  shape id=17 name='TextBox 17' type=TEXT_BOX (17) pos=(4.68,4.35) size=(1.33x0.43)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=193675 text='Recommendation Engine'
+        run text='Recommendation Engine' font='Open Sans Bold' size=12.5 bold=True italic=None color=FFFFFF
+  shape id=18 name='TextBox 18' type=TEXT_BOX (17) pos=(6.90,4.35) size=(0.84x0.43)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=193675 text='Farmer Dashboard'
+        run text='Farmer Dashboard' font='Open Sans Bold' size=12.5 bold=True italic=None color=FFFFFF
+  shape id=19 name='TextBox 19' type=TEXT_BOX (17) pos=(6.81,2.38) size=(1.02x0.43)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=193675 text='CNN Disease Classification'
+        run text='CNN Disease Classification' font='Open Sans Bold' size=12.5 bold=True italic=None color=FFFFFF
+  shape id=20 name='TextBox 20' type=TEXT_BOX (17) pos=(8.79,2.28) size=(1.03x0.64)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=193675 text='Disease Region Segmentation'
+        run text='Disease Region Segmentation' font='Open Sans Bold' size=12.5 bold=True italic=None color=FFFFFF
+  shape id=21 name='TextBox 21' type=TEXT_BOX (17) pos=(0.78,5.38) size=(9.29x0.52)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=241300 text='Pipeline: Image → Quality Check (banana leaf / not a banana leaf) → Preprocessing → CNN Classification → Segmentation → Severity % → Grad-CAM → Recommendation → Dashboard'
+        run text='Pipeline: Image → Quality Check (banana leaf / not a banana leaf) → Preprocessing → CNN Classification → Segmentation → Severity % → Grad-CAM → Recommendation → Dashboard' font='IBM Plex Sans Condensed Italics' size=15.0 bold=None italic=True color=000000
+
+===== SLIDE 9 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(-0.87,0.00) size=(11.79x0.38)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-0.96,7.56) size=(12.00x0.50)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='TextBox 6' type=TEXT_BOX (17) pos=(0.06,0.06) size=(2.58x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='Proposed Work : Architecture'
+        run text='Proposed Work : Architecture' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=7 name='TextBox 7' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=8 name='TextBox 8' type=TEXT_BOX (17) pos=(10.30,7.63) size=(0.12x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='9'
+        run text='9' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+  shape id=9 name='Group 9' type=GROUP (6) pos=(0.29,0.59) size=(10.03x0.53)
+      shape id=10 name='Freeform 10' type=FREEFORM (5) pos=(0.00,0.00) size=(13.37x0.71)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+      shape id=11 name='TextBox 11' type=TEXT_BOX (17) pos=(0.00,-0.01) size=(13.37x0.72)
+         wordwrap=None autosize=None margins=(0.00,0.00,0.00,0.00)
+         p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=324993 text='ARCHITECTURE AND WORKING OF THE PROPOSED SYSTEM'
+            run text='ARCHITECTURE AND WORKING OF THE PROPOSED SYSTEM' font='Times New Roman Bold' size=21.33 bold=True italic=None color=000000
+  shape id=12 name='Table 12' type=TABLE (19) pos=(0.20,1.13) size=(10.31x6.38)
+
+===== SLIDE 10 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(-0.53,0.00) size=(11.54x0.38)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-0.62,7.56) size=(11.93x0.50)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='TextBox 6' type=TEXT_BOX (17) pos=(0.06,0.06) size=(2.58x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='Proposed Work : Architecture'
+        run text='Proposed Work : Architecture' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=7 name='TextBox 7' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=8 name='TextBox 8' type=TEXT_BOX (17) pos=(10.30,7.63) size=(0.12x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='8'
+        run text='8' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+  shape id=9 name='TextBox 9' type=TEXT_BOX (17) pos=(0.29,2.14) size=(10.37x3.61)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=278638 text='1. Input'
+        run text='1. Input' font='Open Sans Bold' size=17.98 bold=True italic=None color=000000
+     p1 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=278638 text='         - You give the app a photo of a banana leaf'
+        run text='         - You give the app a photo of a banana leaf' font='Open Sans' size=17.98 bold=None italic=None color=000000
+     p2 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=278638 text='2. Preprocessing'
+        run text='2. Preprocessing' font='Open Sans Bold' size=17.98 bold=True italic=None color=000000
+     p3 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=278638 text='       - The image is cleaned up: resized, noise removed, brightness balanced, made sharper'
+        run text='       - The image is cleaned up: resized, noise removed, brightness balanced, made sharper' font='Open Sans' size=17.98 bold=None italic=None color=000000
+     p4 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=278638 text='        - So the model sees a clean, clear picture every time'
+        run text='        - So the model sees a clean, clear picture every time' font='Open Sans' size=17.98 bold=None italic=None color=000000
+     p5 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=278638 text='3. Feature Extraction'
+        run text='3. Feature Extraction' font='Open Sans Bold' size=17.98 bold=True italic=None color=000000
+     p6 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=278638 text='        -  The ResNet-50 looks at the image and picks out important details'
+        run text='        -  The ResNet-50 looks at the image and picks out important details' font='Open Sans' size=17.98 bold=None italic=None color=000000
+     p7 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=278638 text='        - Like spots, colour changes, edges and textures — it learns these by itself'
+        run text='        - Like spots, colour changes, edges and textures — it learns these by itself' font='Open Sans' size=17.98 bold=None italic=None color=000000
+     p8 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=278638 text='4. Feature Maps'
+        run text='4. Feature Maps' font='Open Sans Bold' size=17.98 bold=True italic=None color=000000
+     p9 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=278638 text='        -  These are the AI\'s internal notes of "what pattern is where"'
+        run text='        ' font='Open Sans Bold' size=17.98 bold=True italic=None color=000000
+        run text='-  These are the AI\'s internal notes of "what pattern is where"' font='Open Sans' size=17.98 bold=None italic=None color=000000
+     p10 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=278638 text='        - Basically small grids showing where it noticed something important'
+        run text='        - Basically small grids showing where it noticed something important' font='Open Sans' size=17.98 bold=None italic=None color=000000
+     p11 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=278638 text=''
+  shape id=10 name='TextBox 10' type=TEXT_BOX (17) pos=(1.46,0.98) size=(7.05x0.49)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=462280 text='DEMONSTRATION OF PROJECT WORK'
+        run text='DEMONSTRATION OF PROJECT WORK' font='Open Sans Bold' size=26.0 bold=True italic=None color=000000
+
+===== SLIDE 11 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(-0.53,0.00) size=(11.54x0.38)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-0.62,7.56) size=(11.93x0.50)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='TextBox 6' type=TEXT_BOX (17) pos=(0.06,0.06) size=(2.58x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='Proposed Work : Architecture'
+        run text='Proposed Work : Architecture' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=7 name='TextBox 7' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=8 name='TextBox 8' type=TEXT_BOX (17) pos=(10.30,7.63) size=(0.12x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='8'
+        run text='8' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+  shape id=9 name='TextBox 9' type=TEXT_BOX (17) pos=(0.33,1.59) size=(10.09x4.24)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=306070 text='5. Classification'
+        run text='5. Classification' font='Open Sans Bold' size=19.75 bold=True italic=None color=000000
+     p1 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=306070 text='       - The AI compares what it found with what it learned during training'
+        run text='       ' font='Open Sans Bold' size=19.75 bold=True italic=None color=000000
+        run text='- The AI compares what it found with what it learned during training' font='Open Sans' size=19.75 bold=None italic=None color=000000
+     p2 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=306070 text='       - It decides: Healthy / Brown Spot / Yellow Spot / etc.'
+        run text='       - It decides: Healthy / Brown Spot / Yellow Spot / etc.' font='Open Sans' size=19.75 bold=None italic=None color=000000
+     p3 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=306070 text='       - It also gives a confidence score (how sure it is)'
+        run text='       - It also gives a confidence score (how sure it is)' font='Open Sans' size=19.75 bold=None italic=None color=000000
+     p4 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=306070 text='6. Explainability (Grad-CAM)'
+        run text='6. Explainability (Grad-CAM)' font='Open Sans Bold' size=19.75 bold=True italic=None color=000000
+     p5 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=306070 text='       - Shows a heatmap of which parts of the leaf the AI focused on'
+        run text='       ' font='Open Sans Bold' size=19.75 bold=True italic=None color=000000
+        run text='- Shows a heatmap of which parts of the leaf the AI focused on' font='Open Sans' size=19.75 bold=None italic=None color=000000
+     p6 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=306070 text='       - Red = most important area'
+        run text='       - Red = most important area' font='Open Sans' size=19.75 bold=None italic=None color=000000
+     p7 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=306070 text='       - Helps us trust that it looked at the disease, not the background'
+        run text='       - Helps us trust that it looked at the disease, not the background' font='Open Sans' size=19.75 bold=None italic=None color=000000
+     p8 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=306070 text='7. Output'
+        run text='7. Output' font='Open Sans Bold' size=19.75 bold=True italic=None color=000000
+     p9 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=306070 text='       -  The disease name + how confident the AI is'
+        run text='       -  The disease name + how confident the AI is' font='Open Sans' size=19.75 bold=None italic=None color=000000
+     p10 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=306070 text='       - How much of the leaf is affected (severity: None / Mild / Moderate / Severe)'
+        run text='       - How much of the leaf is affected (severity: None / Mild / Moderate / Severe)' font='Open Sans' size=19.75 bold=None italic=None color=000000
+     p11 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=306070 text='       - 3 pictures saved: cleaned image, affected area highlighted, and the heatmap'
+        run text='       - 3 pictures saved: cleaned image, affected area highlighted, and the heatmap' font='Open Sans' size=19.75 bold=None italic=None color=000000
+     p12 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=306070 text=''
+
+===== SLIDE 12 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(-0.68,0.00) size=(11.65x0.38)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-1.10,7.56) size=(12.64x0.53)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='Freeform 6' type=FREEFORM (5) pos=(0.92,1.08) size=(3.34x2.50)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=7 name='Freeform 7' type=FREEFORM (5) pos=(6.61,0.98) size=(2.68x2.68)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=8 name='Freeform 8' type=FREEFORM (5) pos=(1.19,4.13) size=(2.76x2.76)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=9 name='Freeform 9' type=FREEFORM (5) pos=(6.61,4.37) size=(2.68x2.68)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=10 name='TextBox 10' type=TEXT_BOX (17) pos=(0.06,0.06) size=(1.27x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='Demonstration'
+        run text='Demonstration' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=11 name='TextBox 11' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=12 name='TextBox 12' type=TEXT_BOX (17) pos=(10.18,7.63) size=(0.23x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='11'
+        run text='1' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+        run text='1' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+  shape id=13 name='TextBox 13' type=TEXT_BOX (17) pos=(2.61,0.37) size=(5.31x0.43)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=426720 text='Results and Output Visualization'
+        run text='Results and Output Visualization' font='Open Sans Bold' size=24.0 bold=True italic=None color=000000
+  shape id=14 name='TextBox 14' type=TEXT_BOX (17) pos=(1.24,3.68) size=(2.73x0.32)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=311023 text='Image uploaded (input)'
+        run text='Image uploaded (input)' font='Noto Serif' size=17.49 bold=None italic=None color=000000
+  shape id=15 name='TextBox 15' type=TEXT_BOX (17) pos=(6.77,3.74) size=(2.25x0.31)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=293370 text='Preprocessed image '
+        run text='Preprocessed image ' font='Noto Serif' size=16.5 bold=None italic=None color=000000
+  shape id=16 name='TextBox 16' type=TEXT_BOX (17) pos=(0.11,6.91) size=(5.43x0.65)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=311023 text='Severity estimation (infected area segmentation)'
+        run text='Severity estimation (infected area segmentation)' font='Noto Serif' size=17.49 bold=None italic=None color=000000
+  shape id=17 name='TextBox 17' type=TEXT_BOX (17) pos=(5.89,7.09) size=(4.13x0.32)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=311023 text='Grad-CAM heatmap (explainability)'
+        run text='Grad-CAM heatmap (explainability)' font='Noto Serif' size=17.49 bold=None italic=None color=000000
+
+===== SLIDE 13 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(-0.69,0.00) size=(12.57x0.41)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-0.78,7.56) size=(11.73x0.49)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='Freeform 6' type=FREEFORM (5) pos=(0.68,1.76) size=(9.19x2.13)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=7 name='TextBox 7' type=TEXT_BOX (17) pos=(0.06,0.06) size=(1.27x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='Demonstration'
+        run text='Demonstration' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=8 name='TextBox 8' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=9 name='TextBox 9' type=TEXT_BOX (17) pos=(10.18,7.63) size=(0.23x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='12'
+        run text='12' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+  shape id=10 name='TextBox 10' type=TEXT_BOX (17) pos=(4.66,0.74) size=(1.38x0.53)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=497713 text='Results'
+        run text='Results' font='Open Sans Bold' size=27.99 bold=True italic=None color=000000
+  shape id=11 name='TextBox 11' type=TEXT_BOX (17) pos=(0.66,3.97) size=(9.35x0.32)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=311023 text='Output  containing disease prediction , percentage of diseased area , severity  '
+        run text='Output  containing ' font='Noto Serif' size=17.49 bold=None italic=None color=000000
+        run text='disease prediction' font='Noto Serif Bold' size=17.49 bold=True italic=None color=000000
+        run text=' , percentage of ' font='Noto Serif' size=17.49 bold=None italic=None color=000000
+        run text='diseased area' font='Noto Serif Bold' size=17.49 bold=True italic=None color=000000
+        run text=' , ' font='Noto Serif' size=17.49 bold=None italic=None color=000000
+        run text='severity ' font='Noto Serif Bold' size=17.49 bold=True italic=None color=000000
+        run text=' ' font='Noto Serif' size=17.49 bold=None italic=None color=000000
+
+===== SLIDE 14 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(-0.69,0.00) size=(12.57x0.41)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-0.78,7.56) size=(11.73x0.49)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='Freeform 6' type=FREEFORM (5) pos=(0.97,1.12) size=(8.73x4.84)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=7 name='TextBox 7' type=TEXT_BOX (17) pos=(0.06,0.06) size=(1.27x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='Demonstration'
+        run text='Demonstration' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=8 name='TextBox 8' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=9 name='TextBox 9' type=TEXT_BOX (17) pos=(10.18,7.63) size=(0.23x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='12'
+        run text='12' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+
+===== SLIDE 15 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(-0.89,0.00) size=(11.93x0.39)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-0.46,7.56) size=(11.85x0.49)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='TextBox 6' type=TEXT_BOX (17) pos=(0.06,0.06) size=(1.07x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='Applications'
+        run text='Applications' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=7 name='TextBox 7' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=8 name='TextBox 8' type=TEXT_BOX (17) pos=(10.18,7.63) size=(0.23x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='13'
+        run text='13' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+  shape id=9 name='TextBox 9' type=TEXT_BOX (17) pos=(3.76,1.29) size=(3.21x0.55)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=533400 text='APPLICATIONS'
+        run text='APPLICATIONS' font='Open Sans Bold' size=30.0 bold=True italic=None color=000000
+  shape id=10 name='TextBox 10' type=TEXT_BOX (17) pos=(0.56,3.64) size=(8.17x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=337693 text='3.Field-ready diagnosis via a smartphone camera through the web interface.'
+        run text='3.Field-ready diagnosis via a smartphone camera through the web interface.' font='IBM Plex Sans Condensed' size=18.99 bold=None italic=None color=000000
+  shape id=11 name='TextBox 11' type=TEXT_BOX (17) pos=(0.56,2.18) size=(8.94x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=337693 text='1.Early disease detection for banana farmers to reduce crop loss and improve yield.'
+        run text='1.Early disease detection for banana farmers to reduce crop loss and improve yield.' font='IBM Plex Sans Condensed' size=18.99 bold=None italic=None color=000000
+  shape id=12 name='TextBox 12' type=TEXT_BOX (17) pos=(0.56,2.91) size=(9.06x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=337693 text='2.Decision-support tool for agricultural extension officers and Krishi Vigyan Kendras.'
+        run text='2.Decision-support tool for agricultural extension officers and Krishi Vigyan Kendras.' font='IBM Plex Sans Condensed' size=18.99 bold=None italic=None color=000000
+  shape id=13 name='TextBox 13' type=TEXT_BOX (17) pos=(0.56,5.10) size=(9.49x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=337693 text='5.Extensible to other banana-growing regions and adaptable to additional crop diseases.'
+        run text='5.Extensible to other banana-growing regions and adaptable to additional crop diseases.' font='IBM Plex Sans Condensed' size=18.99 bold=None italic=None color=000000
+  shape id=14 name='TextBox 14' type=TEXT_BOX (17) pos=(0.56,4.37) size=(9.69x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=337693 text='4.Severity tracking and disease-progression monitoring across large plantations over time.'
+        run text='4.Severity tracking and disease-progression monitoring across large plantations over time.' font='IBM Plex Sans Condensed' size=18.99 bold=None italic=None color=000000
+
+===== SLIDE 16 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(-0.89,0.00) size=(11.93x0.39)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-0.46,7.56) size=(11.85x0.49)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='TextBox 6' type=TEXT_BOX (17) pos=(0.06,0.06) size=(1.07x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='Applications'
+        run text='Applications' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=7 name='TextBox 7' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=8 name='TextBox 8' type=TEXT_BOX (17) pos=(10.18,7.63) size=(0.23x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='13'
+        run text='13' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+  shape id=9 name='TextBox 9' type=TEXT_BOX (17) pos=(0.69,1.66) size=(8.49x3.52)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=316230 text='Hardware:'
+        run text='Hardware:' font='IBM Plex Sans Condensed Bold' size=17.79 bold=True italic=None color=000000
+     p1 lvl=0 align=LEFT (1) space_before=None space_after=None line=316230 text=''
+     p2 lvl=1 align=LEFT (1) space_before=None space_after=None line=334010 text='GPU: NVIDIA GPU for accelerated deep learning model training.'
+        run text='GPU: NVIDIA GPU for accelerated deep learning model training.' font='IBM Plex Sans Condensed' size=18.79 bold=None italic=None color=000000
+     p3 lvl=1 align=LEFT (1) space_before=None space_after=None line=334010 text='Storage: SSD storage for fast dataset loading and saving model checkpoints.'
+        run text='Storage: SSD storage for fast dataset loading and saving model checkpoints.' font='IBM Plex Sans Condensed' size=18.79 bold=None italic=None color=000000
+     p4 lvl=0 align=LEFT (1) space_before=None space_after=None line=316230 text=''
+     p5 lvl=0 align=LEFT (1) space_before=None space_after=None line=316230 text='Software & Frameworks:'
+        run text='Software & Frameworks:' font='IBM Plex Sans Condensed Bold' size=17.79 bold=True italic=None color=000000
+     p6 lvl=0 align=LEFT (1) space_before=None space_after=None line=316230 text=''
+     p7 lvl=1 align=LEFT (1) space_before=None space_after=None line=334010 text='Python (Core Programming Language)'
+        run text='Python (Core Programming Language)' font='IBM Plex Sans Condensed' size=18.79 bold=None italic=None color=000000
+     p8 lvl=1 align=LEFT (1) space_before=None space_after=None line=334010 text='TensorFlow / Keras (Deep Learning Framework for ResNet50)'
+        run text='TensorFlow / Keras (Deep Learning Framework for ResNet50)' font='IBM Plex Sans Condensed' size=18.79 bold=None italic=None color=000000
+     p9 lvl=1 align=LEFT (1) space_before=None space_after=None line=334010 text='OpenCV (Image Processing & Preprocessing)'
+        run text='OpenCV (Image Processing & Preprocessing)' font='IBM Plex Sans Condensed' size=18.79 bold=None italic=None color=000000
+
+===== SLIDE 17 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(-0.53,0.00) size=(11.61x0.38)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-0.46,7.56) size=(11.82x0.49)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='TextBox 6' type=TEXT_BOX (17) pos=(0.03,0.04) size=(2.56x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='Limitations & Future Scope'
+        run text='Limitations & Future Scope' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=7 name='TextBox 7' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=8 name='TextBox 8' type=TEXT_BOX (17) pos=(10.18,7.63) size=(0.23x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='14'
+        run text='14' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+  shape id=9 name='TextBox 9' type=TEXT_BOX (17) pos=(2.22,0.63) size=(6.35x0.49)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=462280 text='LIMITATIONS AND FUTURE SCOPE'
+        run text='LIMITATIONS AND FUTURE SCOPE' font='Open Sans Bold' size=26.0 bold=True italic=None color=000000
+  shape id=10 name='TextBox 10' type=TEXT_BOX (17) pos=(0.56,1.40) size=(1.33x0.35)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=337693 text='Limitations'
+        run text='Limitations' font='Open Sans Bold' size=18.99 bold=True italic=None color=000000
+  shape id=11 name='TextBox 11' type=TEXT_BOX (17) pos=(0.56,3.26) size=(1.53x0.35)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=337693 text='Future Scope'
+        run text='Future Scope' font='Open Sans Bold' size=18.99 bold=True italic=None color=000000
+  shape id=12 name='TextBox 12' type=TEXT_BOX (17) pos=(0.78,1.75) size=(0.08x1.31)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=414528 text='• • •'
+        run text='• • •' font='IBM Plex Sans Condensed' size=17.0 bold=None italic=None color=000000
+  shape id=13 name='TextBox 13' type=TEXT_BOX (17) pos=(0.78,3.61) size=(0.08x1.31)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=JUSTIFY (4) space_before=None space_after=None line=414528 text='• • •'
+        run text='• • •' font='IBM Plex Sans Condensed' size=17.0 bold=None italic=None color=000000
+  shape id=14 name='TextBox 14' type=TEXT_BOX (17) pos=(1.08,3.61) size=(6.94x1.31)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=414528 text='Test and tune the system on real field images from different plantations. Expand the dataset with more diseases and growth stages.'
+        run text='Test and tune the system on real field images from different plantations. Expand the dataset with more diseases and growth stages.' font='IBM Plex Sans Condensed' size=17.0 bold=None italic=None color=000000
+     p1 lvl=0 align=LEFT (1) space_before=None space_after=None line=414528 text='Provide a mobile application and regional-language advice for farmers.'
+        run text='Provide a mobile application and regional-language advice for farmers.' font='IBM Plex Sans Condensed' size=17.0 bold=None italic=None color=000000
+  shape id=15 name='TextBox 15' type=TEXT_BOX (17) pos=(1.08,1.75) size=(7.58x1.31)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=414528 text='HSV colour thresholds can be sensitive to lighting and background conditions. Leaf-area severity suits spot diseases better than wilt or viral diseases. Accuracy depends on the quality and variety of the training images.'
+        run text='HSV colour thresholds can be sensitive to lighting and background conditions. Leaf-area severity suits spot diseases better than wilt or viral diseases. Accuracy depends on the quality and variety of the training images.' font='IBM Plex Sans Condensed' size=17.0 bold=None italic=None color=000000
+
+===== SLIDE 18 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(-0.65,0.00) size=(12.86x0.42)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-0.65,7.56) size=(11.78x0.49)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='TextBox 6' type=TEXT_BOX (17) pos=(0.06,0.06) size=(0.95x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='Conclusion'
+        run text='Conclusion' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=7 name='TextBox 7' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=8 name='TextBox 8' type=TEXT_BOX (17) pos=(10.18,7.63) size=(0.23x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='15'
+        run text='15' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+  shape id=9 name='TextBox 9' type=TEXT_BOX (17) pos=(3.92,0.59) size=(2.88x0.55)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=533400 text='CONCLUSION'
+        run text='CONCLUSION' font='Open Sans Bold' size=30.0 bold=True italic=None color=000000
+  shape id=10 name='TextBox 10' type=TEXT_BOX (17) pos=(0.56,4.72) size=(8.97x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=320040 text='4.This second review presents the implemented pipeline and its demonstration; further'
+        run text='4.This second review presents the implemented pipeline and its demonstration; further' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=11 name='TextBox 11' type=TEXT_BOX (17) pos=(0.86,5.02) size=(4.06x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=320040 text='evaluation and field testing follow next.'
+        run text='evaluation and field testing follow next.' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=12 name='TextBox 12' type=TEXT_BOX (17) pos=(0.56,1.47) size=(9.28x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=320040 text='1.The proposed system automates banana leaf disease detection using deep learning, with'
+        run text='1.The proposed system automates banana leaf disease detection using deep learning, with' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=13 name='TextBox 13' type=TEXT_BOX (17) pos=(0.86,1.78) size=(3.84x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=320040 text='ResNet-50 for accurate classification.'
+        run text='ResNet-50 for accurate classification.' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=14 name='TextBox 14' type=TEXT_BOX (17) pos=(0.56,3.64) size=(9.43x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=320040 text='3.A Streamlit-based dashboard with recommendations and scan-history tracking makes the'
+        run text='3.A Streamlit-based dashboard with recommendations and scan-history tracking makes the' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=15 name='TextBox 15' type=TEXT_BOX (17) pos=(0.86,3.94) size=(3.78x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=320040 text='system practical and farmer-friendly.'
+        run text='system practical and farmer-friendly.' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=16 name='TextBox 16' type=TEXT_BOX (17) pos=(0.56,2.55) size=(9.56x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=320040 text='2.Beyond classification, it validates the input image, estimates disease severity and provides'
+        run text='2.Beyond classification, it validates the input image, estimates disease severity and provides' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+  shape id=17 name='TextBox 17' type=TEXT_BOX (17) pos=(0.86,2.86) size=(7.51x0.34)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=320040 text='Grad-CAM visual explanations, improving transparency and farmer trust.'
+        run text='Grad-CAM visual explanations, improving transparency and farmer trust.' font='IBM Plex Sans Condensed' size=18.0 bold=None italic=None color=000000
+
+===== SLIDE 19 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(-0.62,0.00) size=(11.55x0.38)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-0.55,7.56) size=(12.03x0.50)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='TextBox 6' type=TEXT_BOX (17) pos=(0.06,0.06) size=(0.92x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='References'
+        run text='References' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=7 name='TextBox 7' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=8 name='TextBox 8' type=TEXT_BOX (17) pos=(10.18,7.63) size=(0.23x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='16'
+        run text='16' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+  shape id=9 name='TextBox 9' type=TEXT_BOX (17) pos=(3.93,0.59) size=(2.86x0.55)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=533400 text='REFERENCES'
+        run text='REFERENCES' font='Open Sans Bold' size=30.0 bold=True italic=None color=000000
+  shape id=10 name='TextBox 10' type=TEXT_BOX (17) pos=(0.56,1.49) size=(9.26x0.28)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=257683 text='[1] Kothalawala, M. U., Gaveshith K., M. G., Tharaka, A. H. D. H., Punchihewa, I. A., & Sriyaratna, D. (2022).'
+        run text='[1] Kothalawala, M. U., Gaveshith K., M. G., Tharaka, A. H. D. H., Punchihewa, I. A., & Sriyaratna, D. (2022).' font='IBM Plex Sans Condensed' size=14.49 bold=None italic=None color=000000
+  shape id=11 name='TextBox 11' type=TEXT_BOX (17) pos=(0.97,1.77) size=(9.35x0.77)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=234950 text='Banana disease identification using machine learning based technologies and weather-based dispersion analysis. In Proceedings of the 4th International Conference on Advancements in Computing (ICAC), Colombo, Sri Lanka, pp. 234–239. doi: 10.1109/ICAC57685.2022.10025325.'
+        run text='Banana disease identification using machine learning based technologies and weather-based dispersion analysis. In ' font='IBM Plex Sans Condensed' size=14.49 bold=None italic=None color=000000
+        run text='Proceedings of the 4th International Conference on Advancements in Computing (ICAC)' font='IBM Plex Sans Condensed Italics' size=14.49 bold=None italic=True color=000000
+        run text=', Colombo, Sri Lanka, pp. 234–239. doi: 10.1109/ICAC57685.2022.10025325.' font='IBM Plex Sans Condensed' size=14.49 bold=None italic=None color=000000
+  shape id=12 name='TextBox 12' type=TEXT_BOX (17) pos=(0.56,2.80) size=(9.62x0.28)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=257683 text='[2] Tanwar, V., Sharma, B., & Aanand, V. (2023). Implementing a hybrid CNN-SVM model for banana leaf disease'
+        run text='[2] Tanwar, V., Sharma, B., & Aanand, V. (2023). Implementing a hybrid CNN-SVM model for banana leaf disease' font='IBM Plex Sans Condensed' size=14.49 bold=None italic=None color=000000
+  shape id=13 name='TextBox 13' type=TEXT_BOX (17) pos=(0.97,3.07) size=(9.11x0.77)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=234950 text='classification. In Proceedings of the IEEE International Conference on Research Methodologies in Knowledge Management, Artificial Intelligence and Telecommunication Engineering (RMKMATE), Chennai, India. doi: 10.1109/RMKMATE59243.2023.10369215.'
+        run text='classification. In ' font='IBM Plex Sans Condensed' size=14.49 bold=None italic=None color=000000
+        run text='Proceedings of the IEEE International Conference on Research Methodologies in Knowledge Management, Artificial Intelligence and Telecommunication Engineering (RMKMATE)' font='IBM Plex Sans Condensed Italics' size=14.49 bold=None italic=True color=000000
+        run text=', Chennai, India. doi: 10.1109/RMKMATE59243.2023.10369215.' font='IBM Plex Sans Condensed' size=14.49 bold=None italic=None color=000000
+  shape id=14 name='TextBox 14' type=TEXT_BOX (17) pos=(0.56,4.10) size=(9.09x0.28)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=257683 text='[3] Thirumeninathan, V., Vijayalakshmi, S., & Palathara, S. T. (2024). Enhancing banana cultivation: Disease'
+        run text='[3] Thirumeninathan, V., Vijayalakshmi, S., & Palathara, S. T. (2024). Enhancing banana cultivation: Disease' font='IBM Plex Sans Condensed' size=14.49 bold=None italic=None color=000000
+  shape id=15 name='TextBox 15' type=TEXT_BOX (17) pos=(0.97,4.38) size=(9.05x0.77)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=234950 text='identification through CNN and SVM analysis for optimal plant health. In Proceedings of the International Conference on Trends in Quantum Computing and Emerging Business Technologies (TQCEBT), pp. 1–6. doi: 10.1109/TQCEBT59414.2024.10545264.'
+        run text='identification through CNN and SVM analysis for optimal plant health. In ' font='IBM Plex Sans Condensed' size=14.49 bold=None italic=None color=000000
+        run text='Proceedings of the International Conference on Trends in Quantum Computing and Emerging Business Technologies (TQCEBT)' font='IBM Plex Sans Condensed Italics' size=14.49 bold=None italic=True color=000000
+        run text=', pp. 1–6. doi: 10.1109/TQCEBT59414.2024.10545264.' font='IBM Plex Sans Condensed' size=14.49 bold=None italic=None color=000000
+  shape id=16 name='TextBox 16' type=TEXT_BOX (17) pos=(0.56,5.41) size=(9.51x0.28)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=257683 text='[4] Alanazi, R. (2025). A YOLOv10-based approach for banana leaf disease detection. Engineering, Technology &'
+        run text='[4] Alanazi, R. (2025). A YOLOv10-based approach for banana leaf disease detection. ' font='IBM Plex Sans Condensed' size=14.49 bold=None italic=None color=000000
+        run text='Engineering, Technology &' font='IBM Plex Sans Condensed Italics' size=14.49 bold=None italic=True color=000000
+  shape id=17 name='TextBox 17' type=TEXT_BOX (17) pos=(0.97,5.66) size=(7.17x0.28)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=257683 text='Applied Science Research, vol. 15, no. 3, pp. 23522–23526. doi: 10.48084/etasr.11138.'
+        run text='Applied Science Research' font='IBM Plex Sans Condensed Italics' size=14.49 bold=None italic=True color=000000
+        run text=', vol. 15, no. 3, pp. 23522–23526. doi: 10.48084/etasr.11138.' font='IBM Plex Sans Condensed' size=14.49 bold=None italic=None color=000000
+
+===== SLIDE 20 layout=Blank =====
+  shape id=2 name='Freeform 2' type=FREEFORM (5) pos=(-0.93,0.00) size=(11.82x0.38)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=3 name='Freeform 3' type=FREEFORM (5) pos=(-0.43,7.56) size=(11.72x0.49)
+     wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+     p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=4 name='Group 4' type=GROUP (6) pos=(0.11,7.60) size=(0.36x0.36)
+      shape id=5 name='Freeform 5' type=FREEFORM (5) pos=(0.00,0.00) size=(0.48x0.48)
+         wordwrap=None autosize=None margins=(0.10,0.10,0.05,0.05)
+         p0 lvl=0 align=None space_before=None space_after=None line=None text=''
+  shape id=6 name='TextBox 6' type=TEXT_BOX (17) pos=(0.06,0.06) size=(0.92x0.26)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=248920 text='References'
+        run text='References' font='Open Sans Bold' size=14.0 bold=True italic=None color=000000
+  shape id=7 name='TextBox 7' type=TEXT_BOX (17) pos=(4.51,7.68) size=(1.67x0.20)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=195580 text='Dept. of ISE, SIT, Tumkur'
+        run text='Dept. of ISE, SIT, Tumkur' font='IBM Plex Sans Condensed' size=11.0 bold=None italic=None color=000000
+  shape id=8 name='TextBox 8' type=TEXT_BOX (17) pos=(10.18,7.63) size=(0.23x0.30)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=266700 text='17'
+        run text='17' font='Liberation Sans' size=15.0 bold=None italic=None color=000000
+  shape id=9 name='TextBox 9' type=TEXT_BOX (17) pos=(3.93,0.59) size=(2.86x0.55)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=533400 text='REFERENCES'
+        run text='REFERENCES' font='Open Sans Bold' size=30.0 bold=True italic=None color=000000
+  shape id=10 name='TextBox 10' type=TEXT_BOX (17) pos=(0.56,1.51) size=(9.23x0.76)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=234950 text='[5] Narayanan, K. L., Krishnan, R. S., Robinson, Y. H., Julie, E. G., Vimal, S., Saravanan, V., & Kaliappan, M. (2022). Banana plant disease classification using hybrid convolutional neural network. Computational Intelligence and Neuroscience, vol. 2022, article 9153699, pp. 1–13. doi: 10.1155/2022/9153699.'
+        run text='[5] Narayanan, K. L., Krishnan, R. S., Robinson, Y. H., Julie, E. G., Vimal, S., Saravanan, V., & Kaliappan, M. (2022). Banana plant disease classification using hybrid convolutional neural network. ' font='IBM Plex Sans Condensed' size=14.49 bold=None italic=None color=000000
+        run text='Computational Intelligence and Neuroscience' font='IBM Plex Sans Condensed Italics' size=14.49 bold=None italic=True color=000000
+        run text=', vol. 2022, article 9153699, pp. 1–13. doi: 10.1155/2022/9153699.' font='IBM Plex Sans Condensed' size=14.49 bold=None italic=None color=000000
+  shape id=11 name='TextBox 11' type=TEXT_BOX (17) pos=(0.56,2.54) size=(9.26x0.28)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=257683 text='[6]  He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. In Proceedings of the'
+        run text='[6]  He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. In ' font='IBM Plex Sans Condensed' size=14.49 bold=None italic=None color=000000
+        run text='Proceedings of the' font='IBM Plex Sans Condensed Italics' size=14.49 bold=None italic=True color=000000
+  shape id=12 name='TextBox 12' type=TEXT_BOX (17) pos=(0.83,2.82) size=(9.35x0.51)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=234950 text='IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Las Vegas, NV, USA, pp. 770–778. doi: 10.1109/CVPR.2016.90.'
+        run text='IEEE Conference on Computer Vision and Pattern Recognition (CVPR)' font='IBM Plex Sans Condensed Italics' size=14.49 bold=None italic=True color=000000
+        run text=', Las Vegas, NV, USA, pp. 770–778. doi: 10.1109/CVPR.2016.90.' font='IBM Plex Sans Condensed' size=14.49 bold=None italic=None color=000000
+  shape id=13 name='TextBox 13' type=TEXT_BOX (17) pos=(0.56,3.59) size=(9.12x0.28)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=257683 text='[7] Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., & Batra, D. (2017). Grad-CAM: Visual'
+        run text='[7] Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., & Batra, D. (2017). Grad-CAM: Visual' font='IBM Plex Sans Condensed' size=14.49 bold=None italic=None color=000000
+  shape id=14 name='TextBox 14' type=TEXT_BOX (17) pos=(0.83,3.87) size=(8.80x0.51)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=LEFT (1) space_before=None space_after=None line=234950 text='explanations from deep networks via gradient-based localization. In Proceedings of the IEEE International Conference on Computer Vision (ICCV), Venice, Italy, pp. 618–626. doi: 10.1109/ICCV.2017.74.'
+        run text='explanations from deep networks via gradient-based localization. In ' font='IBM Plex Sans Condensed' size=14.49 bold=None italic=None color=000000
+        run text='Proceedings of the IEEE International Conference on Computer Vision (ICCV)' font='IBM Plex Sans Condensed Italics' size=14.49 bold=None italic=True color=000000
+        run text=', Venice, Italy, pp. 618–626. doi: 10.1109/ICCV.2017.74.' font='IBM Plex Sans Condensed' size=14.49 bold=None italic=None color=000000
+
+===== SLIDE 21 layout=Blank =====
+  shape id=2 name='TextBox 2' type=TEXT_BOX (17) pos=(3.37,2.85) size=(4.01x2.05)
+     wordwrap=None autosize=SHAPE_TO_FIT_TEXT (1) margins=(0.00,0.00,0.00,0.00)
+     p0 lvl=0 align=CENTER (2) space_before=None space_after=None line=952500 text='Thank you, everyone!'
+        run text='Thank you, everyone!' font='IBM Plex Sans Condensed Bold Italics' size=60.0 bold=True italic=True color=4F81BD

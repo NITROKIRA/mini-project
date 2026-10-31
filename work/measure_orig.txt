@@ -1,0 +1,52 @@
+
+SLIDE 5
+TextBox 10 font=IBM Plex Sans Condensed size=17.489999771118164 text='1.To develop a deep-learning model that classifies banana le'
+  bound=(683.4x22.4) shape=(691.2x23.6) lines=?
+TextBox 11 font=IBM Plex Sans Condensed size=17.489999771118164 text='diseases.'
+  bound=(62.0x46.4) shape=(63.0x23.6) lines=?
+TextBox 12 font=IBM Plex Sans Condensed size=17.489999771118164 text='2.To estimate disease severity by computing the percentage o'
+  bound=(687.4x22.4) shape=(694.2x23.6) lines=?
+TextBox 13 font=IBM Plex Sans Condensed size=17.489999771118164 text='to Mild/Moderate/Severe categories.'
+  bound=(263.7x22.4) shape=(261.2x23.6) lines=?
+
+SLIDE 6
+TextBox 15 font=IBM Plex Sans Condensed size=11.1899995803833 text='Alanazi'
+  bound=(35.5x14.8) shape=(35.5x14.7) lines=?
+TextBox 17 font=IBM Plex Sans Condensed size=11.1899995803833 text='Kothalawala et al.'
+  bound=(83.4x14.8) shape=(82.8x14.7) lines=?
+
+SLIDE 19
+TextBox 10 font=IBM Plex Sans Condensed size=14.489999771118164 text='[1] Kothalawala, M. U., Gaveshith K., M. G., Tharaka, A. H. '
+  bound=(626.3x18.7) shape=(667.0x20.1) lines=?
+TextBox 11 font= size=14.489999771118164 text='Banana disease identification using machine learning based t'
+  bound=(671.9x55.9) shape=(673.2x55.6) lines=?
+
+SLIDE 3
+TextBox 15 font=IBM Plex Sans Condensed size=18.0 text='Advances in Deep Learning and Computer Vision enable automat'
+  bound=(599.5x43.1) shape=(603.6x43.1) lines=?
+TextBox 16 font=IBM Plex Sans Condensed size=18.0 text='Leaf diseases such as Sigatoka , Cordana , Pestalotiopsis si'
+  bound=(609.3x43.1) shape=(629.7x43.1) lines=?
+TextBox 19 font=IBM Plex Sans Condensed size=18.0 text="Bananas are among the world's most cultivated fruit crops an"
+  bound=(650.6x43.1) shape=(648.8x43.1) lines=?
+
+SLIDE 2
+TextBox 21 font=Open Sans Bold size=20.0 text='Introduction Problem statement Objectives Literature Survey '
+  bound=(167.7x214.4) shape=(164.8x153.5) lines=?
+TextBox 22 font=Open Sans Bold size=20.0 text='Requirements\rDemonstration of Project\rResults and Output Vis'
+  bound=(324.0x183.4) shape=(368.0x183.5) lines=?
+TextBox 23 font=IBM Plex Sans Condensed size=18.0 text='System Architecture/ Block Diagram/ Flow Chart'
+  bound=(359.4x23.3) shape=(365.6x24.2) lines=?
+
+SLIDE 7
+TextBox 10 font=IBM Plex Sans Condensed size=17.489999771118164 text=' Existing work spans classical ML, hybrid CNN-SVM models, an'
+  bound=(636.1x22.4) shape=(662.6x23.5) lines=?
+TextBox 11 font=IBM Plex Sans Condensed size=17.489999771118164 text='reported accuracies from  90% to  99% depending on dataset s'
+  bound=(622.7x22.4) shape=(619.3x23.5) lines=?
+
+SLIDE 20
+TextBox 10 font= size=14.489999771118164 text='[5] Narayanan, K. L., Krishnan, R. S., Robinson, Y. H., Juli'
+  bound=(667.0x55.9) shape=(664.6x54.4) lines=?
+TextBox 11 font= size=14.489999771118164 text='[6]  He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep resi'
+  bound=(668.4x18.7) shape=(666.6x20.4) lines=?
+TextBox 12 font= size=14.489999771118164 text='IEEE Conference on Computer Vision and Pattern Recognition ('
+  bound=(649.8x36.9) shape=(673.2x37.1) lines=?

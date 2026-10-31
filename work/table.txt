@@ -1,0 +1,128 @@
+SLIDE 9 table Table 12 pos=(0.20,1.13) size=(10.31x6.38) rows=10 cols=4
+  cell(0,0) text='#'
+    p0 align=CENTER (2) lvl=0
+      run='#' font='Times New Roman Bold' size=10.66 bold=True italic=None color=FFFFFF
+  cell(0,1) text='Component'
+    p0 align=LEFT (1) lvl=0
+      run='Component' font='Times New Roman Bold' size=10.66 bold=True italic=None color=FFFFFF
+  cell(0,2) text='How it works'
+    p0 align=LEFT (1) lvl=0
+      run='How it works' font='Times New Roman Bold' size=10.66 bold=True italic=None color=FFFFFF
+  cell(0,3) text='Output'
+    p0 align=LEFT (1) lvl=0
+      run='Output' font='Times New Roman Bold' size=10.66 bold=True italic=None color=FFFFFF
+  cell(1,0) text='1'
+    p0 align=CENTER (2) lvl=0
+      run='1' font='Times New Roman Bold' size=9.6 bold=True italic=None color=000000
+  cell(1,1) text='Leaf Image Input'
+    p0 align=LEFT (1) lvl=0
+      run='Leaf Image Input' font='Times New Roman Bold' size=11.59 bold=True italic=None color=000000
+  cell(1,2) text='Farmer uploads a banana leaf photo (smartphone/camera) through the simple, farmer-friendly web interface.'
+    p0 align=LEFT (1) lvl=0
+      run='Farmer uploads a banana leaf photo (smartphone/camera) through the simple, farmer-friendly web interface.' font='Times New Roman' size=12.59 bold=None italic=None color=000000
+  cell(1,3) text='Leaf image'
+    p0 align=LEFT (1) lvl=0
+      run='Leaf image' font='Times New Roman' size=12.59 bold=None italic=None color=000000
+  cell(2,0) text='2'
+    p0 align=CENTER (2) lvl=0
+      run='2' font='Times New Roman Bold' size=9.6 bold=True italic=None color=000000
+  cell(2,1) text='Image Quality Check'
+    p0 align=LEFT (1) lvl=0
+      run='Image Quality Check' font='Times New Roman Bold' size=11.59 bold=True italic=None color=000000
+  cell(2,2) text='Validates every upload as banana leaf / not a banana leaf before analysis; unsuitable images are rejected.'
+    p0 align=LEFT (1) lvl=0
+      run='Validates every upload as banana leaf / not a banana leaf before analysis; unsuitable images are rejected.' font='Times New Roman' size=12.59 bold=None italic=None color=000000
+  cell(2,3) text='Accepted leaf image, or rejection'
+    p0 align=LEFT (1) lvl=0
+      run='Accepted leaf image, or rejection' font='Times New Roman' size=12.59 bold=None italic=None color=000000
+  cell(3,0) text='3'
+    p0 align=CENTER (2) lvl=0
+      run='3' font='Times New Roman Bold' size=9.6 bold=True italic=None color=000000
+  cell(3,1) text='Pre-processing\n(OpenCV, NumPy)'
+    p0 align=LEFT (1) lvl=0
+      run='Pre-processing' font='Times New Roman Bold' size=11.59 bold=True italic=None color=000000
+    p1 align=LEFT (1) lvl=0
+      run='(OpenCV, NumPy)' font='Times New Roman Bold' size=11.59 bold=True italic=None color=000000
+  cell(3,2) text='Resizes image to 224 × 224, converts it to a pixel array and applies ResNet-50 preprocessing.'
+    p0 align=LEFT (1) lvl=0
+      run='Resizes image to 224 × 224, converts it to a pixel array and applies ResNet-50 preprocessing.' font='Times New Roman' size=12.59 bold=None italic=None color=000000
+  cell(3,3) text='224 × 224 pixels'
+    p0 align=LEFT (1) lvl=0
+      run='224 × 224 pixels' font='Times New Roman' size=12.59 bold=None italic=None color=000000
+  cell(4,0) text='4'
+    p0 align=CENTER (2) lvl=0
+      run='4' font='Times New Roman Bold' size=9.6 bold=True italic=None color=000000
+  cell(4,1) text='CNN Classification\n(ResNet-50)'
+    p0 align=LEFT (1) lvl=0
+      run='CNN Classification' font='Times New Roman Bold' size=11.59 bold=True italic=None color=000000
+    p1 align=LEFT (1) lvl=0
+      run='(ResNet-50)' font='Times New Roman Bold' size=11.59 bold=True italic=None color=000000
+  cell(4,2) text='50-layer CNN with skip connections; transfer learning (ImageNet weights). Extracts spots, lesions, discoloration. Classes: Healthy, Black Sigatoka, Panama Disease, Bunchy Top.'
+    p0 align=LEFT (1) lvl=0
+      run='50-layer CNN with skip connections; transfer learning (ImageNet weights). Extracts spots, lesions, discoloration. Classes: Healthy, Black Sigatoka, Panama Disease, Bunchy Top.' font='Times New Roman' size=12.59 bold=None italic=None color=000000
+  cell(4,3) text='Disease class + confidence'
+    p0 align=LEFT (1) lvl=0
+      run='Disease class + confidence' font='Times New Roman' size=12.59 bold=None italic=None color=000000
+  cell(5,0) text='5'
+    p0 align=CENTER (2) lvl=0
+      run='5' font='Times New Roman Bold' size=9.6 bold=True italic=None color=000000
+  cell(5,1) text='Region Segmentation\n(OpenCV )'
+    p0 align=LEFT (1) lvl=0
+      run='Region Segmentation' font='Times New Roman Bold' size=11.59 bold=True italic=None color=000000
+    p1 align=LEFT (1) lvl=0
+      run='(OpenCV )' font='Times New Roman Bold' size=11.59 bold=True italic=None color=000000
+  cell(5,2) text='A leaf mask separates leaf from background and a disease mask marks suspected regions by colour.'
+    p0 align=LEFT (1) lvl=0
+      run='A' font='Times New Roman' size=12.59 bold=None italic=None color=000000
+      run=' leaf mask separates leaf from background and a disease mask marks suspected regions by colour.' font='Times New Roman' size=12.59 bold=None italic=None color=000000
+  cell(5,3) text='Leaf mask + disease mask'
+    p0 align=LEFT (1) lvl=0
+      run='Leaf mask + disease mask' font='Times New Roman' size=12.59 bold=None italic=None color=000000
+  cell(6,0) text='6'
+    p0 align=CENTER (2) lvl=0
+      run='6' font='Times New Roman Bold' size=9.6 bold=True italic=None color=000000
+  cell(6,1) text='Severity Estimation'
+    p0 align=LEFT (1) lvl=0
+      run='Severity Estimation' font='Times New Roman Bold' size=11.59 bold=True italic=None color=000000
+  cell(6,2) text='Affected Area % = Diseased Pixels ÷ Total Leaf Pixels × 100. Mild: 0–20%, Moderate: >20–40%, Severe: >40%.'
+    p0 align=LEFT (1) lvl=0
+      run='Affected Area % = Diseased Pixels ÷ Total Leaf Pixels × 100. Mild: 0–20%, Moderate: >20–40%, Severe: >40%.' font='Times New Roman' size=12.59 bold=None italic=None color=000000
+  cell(6,3) text='Affected area % + severity level'
+    p0 align=LEFT (1) lvl=0
+      run='Affected area % + severity level' font='Times New Roman' size=12.59 bold=None italic=None color=000000
+  cell(7,0) text='7'
+    p0 align=CENTER (2) lvl=0
+      run='7' font='Times New Roman Bold' size=9.6 bold=True italic=None color=000000
+  cell(7,1) text='Grad-CAM Explanation'
+    p0 align=LEFT (1) lvl=0
+      run='Grad-CAM Explanation' font='Times New Roman Bold' size=11.59 bold=True italic=None color=000000
+  cell(7,2) text='Uses gradients of the predicted class to build a heatmap overlaid on the leaf, highlighting regions that drove the prediction.'
+    p0 align=LEFT (1) lvl=0
+      run='Uses gradients of the predicted class to build a heatmap overlaid on the leaf, highlighting regions that drove the prediction.' font='Times New Roman' size=12.59 bold=None italic=None color=000000
+  cell(7,3) text='Heatmap overlay'
+    p0 align=LEFT (1) lvl=0
+      run='Heatmap overlay' font='Times New Roman' size=12.59 bold=None italic=None color=000000
+  cell(8,0) text='8'
+    p0 align=CENTER (2) lvl=0
+      run='8' font='Times New Roman Bold' size=9.6 bold=True italic=None color=000000
+  cell(8,1) text='Recommendation Engine'
+    p0 align=LEFT (1) lvl=0
+      run='Recommendation Engine' font='Times New Roman Bold' size=11.59 bold=True italic=None color=000000
+  cell(8,2) text='Rule-based (disease × severity): Mild – monitor and prevent; Moderate – increase monitoring and manage; Severe – act immediately, consult expert.'
+    p0 align=LEFT (1) lvl=0
+      run='Rule-based (disease × severity): Mild – monitor and prevent; Moderate – increase monitoring and manage; Severe – act immediately, consult expert.' font='Times New Roman' size=12.59 bold=None italic=None color=000000
+  cell(8,3) text='Suggested management action'
+    p0 align=LEFT (1) lvl=0
+      run='Suggested management action' font='Times New Roman' size=12.59 bold=None italic=None color=000000
+  cell(9,0) text='9'
+    p0 align=CENTER (2) lvl=0
+      run='9' font='Times New Roman Bold' size=9.6 bold=True italic=None color=000000
+  cell(9,1) text='Farmer Dashboard'
+    p0 align=LEFT (1) lvl=0
+      run='Farmer Dashboard' font='Times New Roman Bold' size=11.59 bold=True italic=None color=000000
+  cell(9,2) text='Shows image, validation, disease, confidence, severity, segmentation, Grad-CAM and advice; scan history tracks disease progression.'
+    p0 align=LEFT (1) lvl=0
+      run='Shows image, validation, disease, confidence, severity, segmentation, Grad-CAM and advice; scan history tracks disease progression.' font='Times New Roman' size=12.59 bold=None italic=None color=000000
+  cell(9,3) text='Final results + scan history'
+    p0 align=LEFT (1) lvl=0
+      run='Final results + scan history' font='Times New Roman' size=12.59 bold=None italic=None color=000000
